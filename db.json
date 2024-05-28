@@ -1,0 +1,34 @@
+{
+  "notes": [
+    {
+      "content": "the app state is in redux store",
+      "important": false,
+      "id": "1"
+    },
+    {
+      "content": "state changes are made with actions",
+      "important": true,
+      "id": "2"
+    },
+    {
+      "id": "5a63",
+      "content": "Pepita la pistolera",
+      "important": true
+    },
+    {
+      "id": "2ee3",
+      "content": "El kun aguero",
+      "important": true
+    },
+    {
+      "id": "48c4",
+      "content": "Vamos de nuevo",
+      "important": true
+    },
+    {
+      "id": "618596",
+      "content": "A ver que agrego ahora",
+      "important": true
+    }
+  ]
+}
